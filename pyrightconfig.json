@@ -1,0 +1,9 @@
+{
+    "extraPaths": [
+        "./cri",
+        "./0.py_install",
+        "./2.sys_settings/1.OLED",
+        "./3.ctrl_Arm/12.sync_movement",
+        "./6.AI_Visual"
+    ]
+}
